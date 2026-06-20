@@ -116,9 +116,11 @@ python main.py
 jarvis/
 │
 ├── main.py
-├── chat_bot.py
-├── search_correct.py
-├── requirements.txt
+├── Models/chat_bot.py
+├── Models/search_correct.py
+├── Models/command_identifier
+├── History/history.json
+|── requirements.txt
 ├── .env
 └── README.md
 ```
